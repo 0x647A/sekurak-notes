@@ -5,6 +5,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 ## 🎓 SEKURAK.ACADEMY
 
 ### **SEKURAK.ACADEMY - Semester I 2024**
+- 📄 [Download PDF](./certificates/academy/sekurak_academy_semester_I_2024.pdf)
 - 🎓 **Organizer:** Securitum
 - 📅 **Period:** January - June 2024
 - ⏱️ **Duration:** 47 hours
@@ -24,6 +25,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 - Hacking smart contracts – Grzegorz Trawiński
 
 ### **SEKURAK.ACADEMY - Semester II 2024**
+- 📄 [Download PDF](./certificates/academy/sekurak_academy_semester_II_2024.pdf)
 - 🎓 **Organizer:** Securitum
 - 📅 **Period:** June - December 2024
 - ⏱️ **Duration:** 43 hours
@@ -41,6 +43,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 - Container Security (Docker, Podman, Kubernetes) – Tomasz Turba
 
 ### **SEKURAK.ACADEMY - Semester I 2025**
+- 📄 [Download PDF](./certificates/academy/sekurak_academy_semester_I_2025.pdf)
 - 🎓 **Organizer:** Securitum
 - 📅 **Period:** January - June 2025
 - ⏱️ **Duration:** 39 hours
@@ -65,6 +68,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 - Live Social Engineering – Robert ProXy Kruczek
 
 ### **SEKURAK.ACADEMY - Semester II 2025**
+- 📄 [View certificate (PDF)](./certificates/academy/sekurak_academy_semester_II_2025.pdf)
 - 🎓 **Organizer:** Securitum
 - 📅 **Period:** June - December 2025
 - ⏱️ **Duration:** 43 hours
@@ -104,6 +108,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 ## 🔐 Cybersecurity & OSINT
 
 ### **OSINT TOOLBOX**
+- 📄 [View certificate (PDF)](./certificates/cybersecurity/OSINT_toolbox.pdf)
 - 🎓 **Organizer:** Securitum
 - 👨‍🏫 **Trainer:** Tomasz Turba
 - 📅 **Dates:** 13, 19, 21, 24, 28.03.2025
@@ -118,6 +123,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 - Cyber Threat Intelligence and APT threat analysis
 
 ### **WAZUH EXPERT - Basic Module**
+- 📄 [View certificate (PDF)](./certificates/cybersecurity/wazuh_expert_basic_module.pdf)
 - 🎓 **Organizer:** Securitum
 - 👨‍🏫 **Trainer:** Tomasz Turba
 - 📅 **Dates:** 16, 23, 27.06.2025, 1, 4.07.2025
@@ -132,6 +138,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 - Wazuh - cluster configuration
 
 ### **WAZUH EXPERT - Advanced Module**
+- 📄 [View certificate (PDF)](./certificates/cybersecurity/wazuh_expert_advanced_module.pdf)
 - 🎓 **Organizer:** Securitum
 - 👨‍🏫 **Trainer:** Tomasz Turba
 - 📅 **Dates:** 7, 11, 14.07.2025
@@ -146,6 +153,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 ## 🤖 Artificial Intelligence
 
 ### **AI TOOLBOX - 2025 Edition**
+- 📄 [View certificate (PDF)](./certificates/ai/AI_toolbox.pdf)
 - 🎓 **Organizer:** Securitum
 - 👨‍🏫 **Trainer:** Tomasz Turba
 - 📅 **Dates:** 20.03, 25.03, 31.03, 3.04, 8.04.2025
@@ -162,6 +170,7 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 ## 💻 Programming
 
 ### **PRACTICAL PYTHON - 10 Projects**
+- 📄 [View certificate (PDF)](./certificates/programming/practical_python.pdf)
 - 🎓 **Organizer:** Securitum
 - 👨‍🏫 **Trainer:** Gynvael Coldwind
 - 📅 **Period:** May - July 2025
