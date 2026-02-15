@@ -150,6 +150,43 @@ Collection of my certificates and achievements in cybersecurity, OSINT, AI, and 
 - Wazuh - advanced optimizations
 - Wazuh - expert integrations
 
+### **Practical Frontend Web Application Security – Part 1: XSS Vulnerabilities**
+- 📄 [View certificate (PDF)](./certificates/cybersecurity/practical_frontend_web_application_security_part_1_xss.pdf)
+- 🎓 **Organizer:** Securitum
+- 📅 **Period:** 2025
+- ⏱️ **Duration:** ~12 hours
+- 🏆 **Certificate of Completion**
+
+**Program included:**
+- Reflected, Stored and DOM-based XSS
+- Injection contexts & JavaScript execution sinks
+- Client-side attack surface analysis
+- Debugging and exploitation of frontend vulnerabilities
+- Content Security Policy (CSP)
+- Output encoding & sanitization strategies
+- CSRF and Clickjacking fundamentals
+- Real-world attack scenarios & mitigation techniques
+
+---
+
+### **A Practical Introduction to Network Security – Part 1: Switches / Ethernet / VLAN / 802.1X / Port Security**
+- 📄 [View certificate (PDF)](./certificates/cybersecurity/practical_introduction_to_network_security_part_1.pdf)
+- 🎓 **Organizer:** Securitum
+- 📅 **Period:** 2025
+- ⏱️ **Duration:** ~14 hours
+- 🏆 **Certificate of Completion**
+
+**Program included:**
+- Ethernet & switching fundamentals from a security perspective
+- Secure switch management (including out-of-band access)
+- VLAN segmentation & common misconfigurations
+- Port Security mechanisms
+- MAC filtering techniques
+- DHCP Snooping & ARP protection
+- 802.1X authentication (RADIUS-based access control)
+- Spanning Tree security considerations
+- Layer 2 attack vectors & mitigation techniques
+
 ## 🤖 Artificial Intelligence
 
 ### **AI TOOLBOX - 2025 Edition**
@@ -215,7 +252,9 @@ certificates/
 ├── cybersecurity/
 │ ├── OSINT_toolbox.pdf
 │ ├── wazuh_expert_basic_module.pdf
-│ └── wazuh_expert_advanced_module.pdf
+│ ├── wazuh_expert_advanced_module.pdf
+│ ├── practical_frontend_web_application_security_part_1_xss.pdf
+│ └── practical_introduction_to_network_security_part_1.pdf
 ├── ai/
 │ └── AI_toolbox.pdf
 └── programming/
@@ -224,15 +263,15 @@ certificates/
 
 ## 📊 Summary
 
-- **Total training hours:** 226 hours
-- **Total CPE/ECE points:** 226 points
-- **Main areas:** Cybersecurity, OSINT, AI, Python, Wazuh
+- **Total training hours:** 282 hours
+- **Total CPE/ECE points:** 256 points
+- **Main areas:** Cybersecurity, OSINT, AI, Python, Wazuh, Network Security
 - **Activity period:** 2024–2025
-- **Active certificates:** 9
+- **Active certificates:** 11
 
 ### Breakdown by category:
 - 🎓 **SEKURAK.ACADEMY:** 172 hours (4 semesters)
-- 🔐 **Cybersecurity/OSINT:** 39 hours (4 courses)
+- 🔐 **Cybersecurity/OSINT:** 65 hours (6 courses)
 - 🤖 **AI:** 15 hours (1 course)
 - 💻 **Programming:** 30 hours (1 course)
 
