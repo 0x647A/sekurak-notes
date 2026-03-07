@@ -1,0 +1,5 @@
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]
+exclude = ["venv", ".venv", "__pycache__"]
+
